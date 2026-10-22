@@ -1,0 +1,14 @@
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\bin\Debug\net8.0\BubbleSortDemo.exe
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\bin\Debug\net8.0\BubbleSortDemo.deps.json
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\bin\Debug\net8.0\BubbleSortDemo.runtimeconfig.json
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\bin\Debug\net8.0\BubbleSortDemo.dll
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\bin\Debug\net8.0\BubbleSortDemo.pdb
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\obj\Debug\net8.0\BubbleSortDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\obj\Debug\net8.0\BubbleSortDemo.AssemblyInfoInputs.cache
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\obj\Debug\net8.0\BubbleSortDemo.AssemblyInfo.cs
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\obj\Debug\net8.0\BubbleSortDemo.csproj.CoreCompileInputs.cache
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\obj\Debug\net8.0\BubbleSortDemo.dll
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\obj\Debug\net8.0\refint\BubbleSortDemo.dll
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\obj\Debug\net8.0\BubbleSortDemo.pdb
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\obj\Debug\net8.0\BubbleSortDemo.genruntimeconfig.cache
+C:\Users\junyong is DaShuaiGe\Desktop\SCHOOL\side\Boostorder\obj\Debug\net8.0\ref\BubbleSortDemo.dll
